@@ -40,17 +40,18 @@ A [Video Tutorial](https://blog.camunda.org/post/2014/12/internationalization-in
 
 ### Contribute!
 
-Everybody is welcome to contribute! You can help by sending us a pull request with your translation. For further reference, please see our [contribution guide](https://github.com/camunda/camunda-bpm-platform/blob/master/CONTRIBUTING.md).
+Everybody is welcome to contribute! You can help by sending us a pull request with your translation and tagging `@c7-webapp-translation` for review. For further reference, please see our [contribution guide](https://github.com/camunda/camunda-bpm-platform/blob/master/CONTRIBUTING.md).
 
   * Website: http://www.camunda.org/
   * License: Apache License, Version 2.0  http://www.apache.org/licenses/LICENSE-2.0
 
-[en-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/tasklist/client/locales/en.json
-[en-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/cockpit/client/locales/en.json
-[en-admin]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/admin/client/locales/en.json
-[en-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/welcome/client/locales/en.json
+[en-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/frontend/public/app/tasklist/locales/en.json
+[en-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/frontend/public/app/cockpit/locales/en.json
+[en-admin]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/frontend/public/app/admin/locales/en.json
+[en-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/frontend/public/app/welcome/locales/en.json
 
-[de-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/tasklist/client/locales/de.json
-[de-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/cockpit/client/locales/de.json
-[de-admin]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/admin/client/locales/de.json
-[de-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/welcome/client/locales/de.json
+[de-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/frontend/public/app/tasklist/locales/de.json
+[de-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/frontend/public/app/cockpit/locales/de.json
+[de-admin]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/frontend/public/app/admin/locales/de.json
+[de-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/frontend/public/app/welcome/locales/de.json
+
